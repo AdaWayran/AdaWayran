@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ada Wayran</title>
-</head>
-<body>
+
     <h1>I am Ada Wayran</h1>
     <p>A Web Developer and Graphic Designer</p>
     
@@ -17,8 +10,5 @@
 <!-- Add a link to your contact me page here -->
      <a href="contact.html">Contact Me</a>
     <hr /> 
-</body>
-<footer>
+
     <p>&copy; 2025 Ada Wayran. All rights reserved.</p>
-</footer>
-</html>

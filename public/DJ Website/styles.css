@@ -1,3 +1,4 @@
+
 /* Base Reset */
 * {
 margin: 0;
@@ -74,9 +75,3 @@ font-size: 2.5rem;
 }
 }
 
-/* Paragrph Styles */
-.paragraph {
-text-align: justify;
-font-size: 1.2rem;
-line-height: 1.6;
-}

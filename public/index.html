@@ -1,24 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html style="background:lightblue" lang="en"> <!-- Inline CSS -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
 <body>
-    <h1>I am Ada Wayran</h1>
-    <p>A Web Developer and Graphic Designer</p>
-    
-<!-- Add an image of yourself that links to the about page -->
-    <a href ="about.html">
-        <img src="../assets/images/my-image.png" alt="Sleepy puppy" height="400"> <hr>About Me</a>
+    <!-- Intenal CSS is limited to one html-doc/one web page: <style> html { background-color: lightblue; } </style>-->
+    <!-- Esternal CSS is used for multiple pages in a separate file-->
+    <center>
+    <h1>Ada Wayran</h1>
+    <p>An Aspiring Web Developer and Graphic Designer</p>
+    <br>
+
+<!-- Add an image of yourself that links to the about page and the other links-->
+ <section>
+    <a href ="about.html" style="color: black;">
+        <img src="../assets/images/my-image.png" alt="the developer" height="485"><br><br> <hr>About Me</a>
     </a>
     <hr />
-<!-- Add a link to your contact me page here -->
-     <a href="contact.html">Contact Me</a>
-    <hr /> 
-</body>
-<footer>
+     <a href="contact.html" style="color: black;">Contact Me</a>
+    <hr />
+     <a href="portfolioprojects.html" style="color: black;">Portfolio</a>
+    <hr />
+     <a href="blog.html" style="color: black;">Blog</a>
+    <hr />
+ </section>
+    <footer>
     <p>&copy; 2025 Ada Wayran. All rights reserved.</p>
 </footer>
+</body>
+
 </html>

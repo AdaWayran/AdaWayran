@@ -7,14 +7,14 @@ body {
 body {
     font-family: 'Lato', sans-serif;
     margin: 2rem;
-    background-color: #fdfdfd;
-    color: #333;
+    background-color: #dbdbdb;
+    color: #393434ca;
 }
 
 h1, h2, h3 {
  font-family: 'Playfair Display', serif;
  font-weight: 700;
-    color: #111;
+    color: #393434ce;
     margin-bottom: 0.5rem;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 img {
-    max-width: 50%;
+    max-width: 30%;
     height: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border-radius: 8px;
@@ -32,10 +32,10 @@ img {
 
 a {
     text-decoration: none;
-    color: #007BFF;
+    color: #583931;
 }
 
 a:hover {
-    color: #0056b3;
+    color: #0d40768f;
     text-decoration: underline;
 }
